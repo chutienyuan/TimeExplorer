@@ -26,3 +26,5 @@ Things you may want to cover:
 * commit something
 
 * home 
+
+* test 
